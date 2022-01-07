@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "344379595880",
+    "project_id": "news-space-c57e0",
+    "storage_bucket": "news-space-c57e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344379595880:android:10a985216a15bd7c60afdd",
+        "android_client_info": {
+          "package_name": "com.example.newsspace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344379595880-vual1i7l79s5e7p0bcbklqc4jbgaspl2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6VYwrkIHJ3go9h8ZUwxabiP_o8OgaQrc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344379595880-vual1i7l79s5e7p0bcbklqc4jbgaspl2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
